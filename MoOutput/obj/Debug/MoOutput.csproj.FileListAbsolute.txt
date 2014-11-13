@@ -1,5 +1,0 @@
-F:\MoLib\MoLib_dll\MoOutput.dll
-F:\MoLib\MoLib_dll\MoOutput.pdb
-F:\MoLib\MoLib\MoOutput\obj\Debug\ResolveAssemblyReference.cache
-F:\MoLib\MoLib\MoOutput\obj\Debug\MoOutput.dll
-F:\MoLib\MoLib\MoOutput\obj\Debug\MoOutput.pdb

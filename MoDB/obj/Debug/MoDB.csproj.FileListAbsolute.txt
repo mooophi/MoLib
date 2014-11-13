@@ -1,5 +1,0 @@
-F:\MoLib\MoLib_dll\MoDB.dll
-F:\MoLib\MoLib_dll\MoDB.pdb
-F:\MoLib\MoLib\MoDB\obj\Debug\ResolveAssemblyReference.cache
-F:\MoLib\MoLib\MoDB\obj\Debug\MoDB.dll
-F:\MoLib\MoLib\MoDB\obj\Debug\MoDB.pdb
