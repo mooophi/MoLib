@@ -1,0 +1,5 @@
+F:\MoLib\MoLib_dll\MoGeneral.dll
+F:\MoLib\MoLib_dll\MoGeneral.pdb
+F:\MoLib\MoLib\MoGeneral\obj\Debug\ResolveAssemblyReference.cache
+F:\MoLib\MoLib\MoGeneral\obj\Debug\MoGeneral.dll
+F:\MoLib\MoLib\MoGeneral\obj\Debug\MoGeneral.pdb
