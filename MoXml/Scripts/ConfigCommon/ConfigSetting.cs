@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Mophi.Xml
 {
-	public class ConfigSetting
+	public partial class ConfigSetting
 	{
 		private Dictionary<Type, string> configList = new Dictionary<Type, string>();
 
