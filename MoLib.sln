@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoDB", "MoDB\MoDB.csproj", "{536824A3-4048-4B76-80A2-6096D218254B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoGeneral", "MoGeneral\MoGeneral.csproj", "{5039082C-A00E-4D61-8BF5-B04E66B7A535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoOutput", "MoOutput\MoOutput.csproj", "{A53E9EEE-B846-4368-988E-25DFFC75323F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoXml", "MoXml\MoXml.csproj", "{0250F870-AD14-4716-BF13-0239E747EBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536824A3-4048-4B76-80A2-6096D218254B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536824A3-4048-4B76-80A2-6096D218254B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536824A3-4048-4B76-80A2-6096D218254B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536824A3-4048-4B76-80A2-6096D218254B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5039082C-A00E-4D61-8BF5-B04E66B7A535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5039082C-A00E-4D61-8BF5-B04E66B7A535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5039082C-A00E-4D61-8BF5-B04E66B7A535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5039082C-A00E-4D61-8BF5-B04E66B7A535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53E9EEE-B846-4368-988E-25DFFC75323F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53E9EEE-B846-4368-988E-25DFFC75323F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53E9EEE-B846-4368-988E-25DFFC75323F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53E9EEE-B846-4368-988E-25DFFC75323F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0250F870-AD14-4716-BF13-0239E747EBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0250F870-AD14-4716-BF13-0239E747EBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0250F870-AD14-4716-BF13-0239E747EBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0250F870-AD14-4716-BF13-0239E747EBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
